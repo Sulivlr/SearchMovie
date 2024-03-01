@@ -1,6 +1,10 @@
+import MovieInput from "./components/MovieInput.tsx";
+
 const App = () => {
     return (
-    <div>Privet!</div>
+    <div className="contaner mt-2">
+        <MovieInput />
+    </div>
   )
 };
 
