@@ -1,9 +1,9 @@
-import MovieInput from "./components/MovieInput.tsx";
+import MovieSelect from "./components/MovieSelect.tsx";
 
 const App = () => {
     return (
     <div className="contaner mt-2">
-        <MovieInput />
+        <MovieSelect />
     </div>
   )
 };
